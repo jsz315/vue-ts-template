@@ -9,6 +9,7 @@
     "experimentalDecorators": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
+    "allowJs": true,//支持js混编
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "baseUrl": ".",
