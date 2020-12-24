@@ -1,6 +1,6 @@
 import Vue from "vue";
 import App from "./App.vue";
-import { TypeDemo } from "./as2ts/TypeDemo";
+import { Demo } from "./as2ts/Demo";
 
 Vue.config.productionTip = false;
 
@@ -8,4 +8,4 @@ new Vue({
   render: h => h(App)
 }).$mount("#app");
 
-new TypeDemo();
+new Demo();
